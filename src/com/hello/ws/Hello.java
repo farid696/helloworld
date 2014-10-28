@@ -4,7 +4,7 @@ package com.hello.ws;
 
 
 public class Hello {
-    private String message = new String("Hello, ");
+    private String message = new String("Hey Hello, ");
 
     public void Hello() {
     }
